@@ -18,7 +18,7 @@ During those years, I also mentored a young designer ([Ernest Wereko](https://ww
 
 ### What I've built
 
-I built this site! It's made in [NextJS](https://nextjs.org) using [functional components](https://www.robinwieruch.de/react-function-component/) and a few [APIs](https://en.wikipedia.org/wiki/API) (mainly [Trello](https://trello.com) and [Spotify](https://spotify.com)). I use Trello to organise case my studies and pull cool tunes from [Spotify](https://spotify.com).
+I built my portfolio in [NextJS](https://nextjs.org) using [functional components](https://www.robinwieruch.de/react-function-component/) and a few [APIs](https://en.wikipedia.org/wiki/API) (mainly [Trello](https://trello.com) and [Spotify](https://spotify.com)). I use Trello to organise case my studies and pull cool tunes from [Spotify](https://spotify.com).
 
 I'm currently building an [events management app](https://blog.paulh.biz/organising-spaces-with-graphql-1-c4d168b61585) (in [Vue 3](https://vuejs.org/)) for the Barbican and recently finished building [sparkthecannon.com](https://sparkthecannon.com) (also in [NextJS](https://nextjs.org)).
 
