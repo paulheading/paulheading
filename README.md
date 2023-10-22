@@ -1,23 +1,23 @@
-Hey 👋 I'm Paul, a Front-end Designer and Developer.
+# About
 
-I've been a Developer since 2020 and a Designer for over 10 years. I work in the **Digital Products** team at the [Barbican](https://barbican.org.uk) and spend my time building/designing better website-based experiences.
+Hey 👋 I'm Paul, a Front-end Designer & Developer.
 
-Before 2020, I worked as a [Designer](https://www.creativelivesinprogress.com/article/paul-heading) 👨‍🎨 in the Barbican [Design Team](https://www.creativelivesinprogress.com/article/barbican).
+I've been a Developer since 2020 and a Designer for over 10 years. I work in the **Digital Products** team at the [Barbican](https://barbican.org.uk) and spend my time creating better website experiences.
 
-### Why I do this
+Before 2020, I worked as a [Designer](https://www.creativelivesinprogress.com/article/paul-heading) 👨‍🎨 in the [Barbican Design Studio](https://www.creativelivesinprogress.com/article/barbican).
 
-I love building things, solving problems 🤓 and making a difference. I've always been creative, but it wasn't until I found graphic design that I understood how to use that skill. For me, web development is a continuation of that journey.
+### What have I made
 
-Both design and development are about communicating ideas effectively, removing obstacles and bringing joy where possible. I love doing this for the people and causes I care about.
+I built this site! It's made in [Astro](https://astro.build) using [functional components](https://www.robinwieruch.de/react-function-component/) and a few [APIs](https://en.wikipedia.org/wiki/API) (mainly [Trello](https://trello.com) and [Spotify](https://spotify.com)). I use Trello to organise case my studies and pull cool tunes from [Spotify](https://spotify.com).
 
-I started out working in print design (at [Skye Creative](http://www.skyecreative.co.uk/) and [Brandwave](https://brandwavemarketing.com/)) before joining the [Barbican](https://en.wikipedia.org/wiki/Barbican_Centre) as a Junior Designer in 2013. I moved into digital design, creating trailers for the in-house cinemas and animating HTML5 adverts.
+I'm currently building an [events management app](https://paulh.biz/project/organising-spaces-with-graphql) (in [Vue 3](https://vuejs.org/)) for the Barbican and recently finished building [sparkthecannon.com](https://sparkthecannon.com) in [Next.js](https://nextjs.org).
 
-During those years, I also mentored a young designer ([Ernest Wereko](https://www.ernestwereko.com/)) and built the website/brand for [36 Bourne Street](https://36bournestreet.com). This marked the beginning of my journey into serious web development, and I began studying the [Full Stack Javascript Techdegree](https://teamtreehouse.com/plans) at [TeamTreehouse.com](https://teamtreehouse.com).
+Take a look at my [resume page](https://paulh.biz/resume) for more examples.
 
-### What I've built
+### How did I get here
 
-I built my portfolio in [Next.js](https://nextjs.org) using [functional components](https://www.robinwieruch.de/react-function-component/) and a few [APIs](https://en.wikipedia.org/wiki/API) (mainly [Trello](https://trello.com) and [Spotify](https://spotify.com)). I use Trello to organise case my studies and pull cool tunes from [Spotify](https://spotify.com).
+For me, design and development are about communicating ideas, removing obstacles and bringing joy where possible.
 
-I'm currently building an [events management app](https://blog.paulh.biz/organising-spaces-with-graphql-1-c4d168b61585) (in [Vue 3](https://vuejs.org/)) for the Barbican and recently finished building [sparkthecannon.com](https://sparkthecannon.com) (also in [Next.js](https://nextjs.org)).
+I began by working in print design (at [Skye Creative](http://www.skyecreative.co.uk/) and [Brandwave](https://brandwavemarketing.com/)) before joining the [Barbican](https://en.wikipedia.org/wiki/Barbican_Centre) as a Junior Designer in 2013. From there I moved further into digital design, creating trailers for the in-house cinemas and animating HTML5 advertising.
 
-Please take a look at [paulh.biz/resume](https://paulh.biz/resume) for more examples.
+During those years, I also began mentoring a young designer ([Ernest Wereko](https://www.ernestwereko.com/)) and built the website/brand for [36 Bourne Street](https://36bournestreet.com). This was the start of my journey into professional web development, and I began studying the [Full Stack Javascript Techdegree](https://teamtreehouse.com/plans) at [TeamTreehouse.com](https://teamtreehouse.com).
