@@ -10,9 +10,9 @@ Before 2020, I worked as a [Designer](https://www.creativelivesinprogress.com/a
 
 I built this site! It's made in [Astro](https://astro.build) using [functional components](https://www.robinwieruch.de/react-function-component/) and a few [APIs](https://en.wikipedia.org/wiki/API) (mainly [Trello](https://trello.com) and [Spotify](https://spotify.com)). I use Trello to organise case my studies and pull cool tunes from [Spotify](https://spotify.com).
 
-I'm currently building an [events management app](https://paulh.biz/project/organising-spaces-with-graphql) (in [Vue 3](https://vuejs.org/)) for the Barbican and recently finished building [sparkthecannon.com](https://sparkthecannon.com) in [Next.js](https://nextjs.org).
+I'm currently building an [events management app](https://paul.ly/project/organising-spaces-with-graphql) (in [Vue 3](https://vuejs.org/)) for the Barbican and recently finished building [sparkthecannon.com](https://sparkthecannon.com) in [Next.js](https://nextjs.org).
 
-Take a look at my [resume page](https://paulh.biz/resume) for more examples.
+Take a look at my [resume page](https://paul.ly/resume) for more examples.
 
 ### How did I get here
 
